@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning  **SQL, Python and Power BI**
 
--
- 📝 I regularly write articles on 
+- 📝 I regularly write articles on 
 [https://www.linkedin.com/in/renanlimadata/recent-activity/posts/](https://www.linkedin.com/in/renanlimadata/recent-activity/posts/)
 
 - 📫 How to reach me **limatech.studio@gmail.com**
