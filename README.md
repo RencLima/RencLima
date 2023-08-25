@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renan Lima</h1>
 <h3 align="center">Passionate about data science and analytics in the digital world</h3>
 
-- 🔭 I’m currently working with data analysis and visualization at [DBAOnline](https://dbaonline.com.br/)
+- 🔭 I’m currently working with data analysis and visualization.
 
 - 🌱 I’m currently learning  **SQL, Python and Power BI**
 
